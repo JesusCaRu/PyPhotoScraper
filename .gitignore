@@ -1,0 +1,49 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.env
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+temp/
+tmp/
+
+# Archivos de configuración local
+config.ini
+settings.json
+
+# Carpetas específicas del proyecto que contienen datos grandes o personales
+# Descomentar si no quieres subir las imágenes de ejemplo
+# Imagenes/
